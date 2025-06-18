@@ -68,18 +68,10 @@ Desvio padrão
 
 Função de regressão linear:
 
-𝑦
-=
-𝑎
-⋅
-𝑥
-+
-𝑏
-y=a⋅x+b
+𝑦=𝑎⋅𝑥+𝑏
+
 Onde:
-
 a = inclinação (slope)
-
 b = intercepto (intercept)
 
 💡 Próximo passo
