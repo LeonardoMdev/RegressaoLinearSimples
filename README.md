@@ -55,3 +55,37 @@ y = array([2, 4, 6, 8, 10])
 
 lr = LinearRegression(x, y)
 print("Previsão para x=6:", lr.previsao(6))
+
+Saída esperada:
+Previsão para x=6: 12.0
+
+📚 Conceitos envolvidos:
+Covariância e variância
+
+Coeficiente de correlação de Pearson
+
+Desvio padrão
+
+Função de regressão linear:
+
+𝑦
+=
+𝑎
+⋅
+𝑥
++
+𝑏
+y=a⋅x+b
+Onde:
+
+a = inclinação (slope)
+
+b = intercepto (intercept)
+
+💡 Próximo passo
+Vamos evoluir este exemplo utilizando a biblioteca scikit-learn para aplicar os mesmos conceitos com menos código e mais recursos. 🔬
+
+🧠 Autor
+Este projeto foi criado como exercício educacional para entender o funcionamento interno da Regressão Linear.
+Contribuições e melhorias são bem-vindas!
+
